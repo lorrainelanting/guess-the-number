@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="btn_ok">OK</string>
+    <string name="bottom">Bottom</string>
+    <string name="top">Top</string>
+    <string name="default_guess">0</string>
+    <string name="bottom_guess_message">The number is lower than the unknown number.</string>
+    <string name="top_guess_message">The number is greater than the unknown number.</string>
+    <string name="congrats_message">Congratulations you are correct!</string>
+    <string name="hint_type_guess_here">Type your guess here</string>
+    <string name="error_msg">Please guess the number from 0 to 100.</string>
+</resources>
